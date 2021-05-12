@@ -1,6 +1,6 @@
 {
   "name": "attestation-honneur-ue",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Générateur d'engagement à se soumettre aux règles d'entrée sur le territoire national depuis un pays de l'UE",
   "main": "certificate.js",
   "scripts": {
