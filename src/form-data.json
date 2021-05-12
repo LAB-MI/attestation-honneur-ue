@@ -1,0 +1,94 @@
+[
+  [
+    {
+      "key": "firstname",
+      "type": "text",
+      "contentType": "firstname",
+      "label": "Prénom",
+      "autocomplete": "given-name",
+      "placeholder": "Camille"
+    },
+    {
+      "key": "lastname",
+      "type": "text",
+      "contentType": "lastname",
+      "label": "Nom",
+      "autocomplete": "family-name",
+      "placeholder": "Dupont"
+    },
+    {
+      "key": "birthday",
+      "type": "text",
+      "contentType": "birthday",
+      "label": "Date de naissance",
+      "autocomplete": "birthday",
+      "pattern": "^([0][1-9]|[1-2][0-9]|30|31)\/([0][1-9]|10|11|12)\/(19[0-9][0-9]|20[0-1][0-9]|2020)",
+      "maxlength": 10,
+      "placeholder": "01/01/1970"
+    },
+    {
+      "key": "birthplace",
+      "type": "text",
+      "contentType": "birthplace",
+      "label": "Lieu de naissance",
+      "autocomplete": "birthday",
+      "placeholder": "Paris"
+    }
+  ],
+  [
+    {
+      "key": "address",
+      "type": "text",
+      "contentType": "address",
+      "label": "Adresse",
+      "autocomplete": "address-line1",
+      "placeholder": "999 avenue de France"
+    },
+    {
+      "key": "city",
+      "type": "text",
+      "contentType": "city",
+      "label": "Ville",
+      "autocomplete": "address-level2",
+      "placeholder": "Paris"
+    },
+    {
+      "key": "zipcode",
+      "type": "number",
+      "contentType": "zipcode",
+      "label": "Code Postal",
+      "autocomplete": "postal-code",
+      "placeholder": "75001",
+      "inputmode": "numeric",
+      "pattern": "[0-9]{5}",
+      "min": 1000,
+      "max": 99999,
+      "minlength": 4,
+      "maxlength": 5
+    },
+    {
+      "key": "creationLocation",
+      "type": "text",
+      "contentType": "creationLocation",
+      "label": "Lieu de création de l'attestation",
+      "autocomplete": "address-level2",
+      "placeholder": "Bruxelles"
+    }
+  ],
+  [
+    {
+      "key": "creationDate",
+      "type": "date",
+      "contentType": "creationDate",
+      "label": "Date de création",
+      "isHidden": true
+    },
+    {
+      "key": "creationHour",
+      "type": "time",
+      "contentType": "creationHour",
+      "label": "Heure de création",
+      "isHidden": true
+    }
+  ]
+]

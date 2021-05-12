@@ -1,0 +1,378 @@
+[
+  {
+    "type": "text",
+    "page": 1,
+    "top": "124",
+    "left": "113",
+    "width": "668",
+    "height": "22",
+    "font": "LucioleBold",
+    "size": "18",
+    "label": "ENGAGEMENT SUR L’HONNEUR A SE SOUMETTRE AUX REGLES RELATIVES",
+    "block": 3
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "148",
+    "left": "175",
+    "width": "544",
+    "height": "22",
+    "font": "LucioleBold",
+    "size": "18",
+    "label": "A L’ENTREE SUR LE TERRITOIRE NATIONAL METROPOLITAIN"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "172",
+    "left": "260",
+    "width": "372",
+    "height": "22",
+    "font": "LucioleBold",
+    "size": "18",
+    "label": "DEPUIS UN PAYS DE L’ESPACE EUROPEEN"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "207",
+    "left": "324",
+    "width": "245",
+    "height": "20",
+    "font": "Luciole",
+    "size": "16",
+    "label": "(voyageur de plus de onze ans)"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "271",
+    "left": "107",
+    "width": "341",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "Cette déclaration est à présenter, accompagnée d’un examen biologique de dépistage virologique",
+    "block": 3
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "288",
+    "left": "107",
+    "width": "328",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "négatif (PCR) réalisé depuis moins de 72 heures, aux compagnies de transport avant l’embarquement"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "306",
+    "left": "107",
+    "width": "383",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "ainsi qu’aux autorités en charge du contrôle des frontières."
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "363",
+    "left": "107",
+    "width": "98",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "Je soussigné(e),",
+    "block": 3
+  },
+  {
+    "type": "input",
+    "inputs": [
+      "firstname",
+      "lastname"
+    ],
+    "page": 1,
+    "top": "393",
+    "left": "107",
+    "width": "53",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "Mme/M. "
+  },
+  {
+    "type": "input",
+    "inputs": [
+      "birthday"
+    ],
+    "page": 1,
+    "top": "423",
+    "left": "107",
+    "width": "51",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "Né(e) le "
+  },
+  {
+    "type": "input",
+    "inputs": [
+      "birthplace"
+    ],
+    "page": 1,
+    "top": "454",
+    "left": "107",
+    "width": "10",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "À"
+  },
+  {
+    "type": "input",
+    "inputs": [
+      "address",
+      "zipcode",
+      "city"
+    ],
+    "page": 1,
+    "top": "484",
+    "left": "107",
+    "width": "74",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "Demeurant "
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "515",
+    "left": "107",
+    "width": "138",
+    "height": "16",
+    "font": "LucioleBold",
+    "size": "13",
+    "label": "déclare sur l’honneur",
+    "block": 2
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "515",
+    "left": "252",
+    "width": "486",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " n’avoir présenté, au cours des dernières 48 heures, aucun des symptômes ",
+    "block": -0.6
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "564",
+    "left": "161",
+    "width": "175",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " - de la fièvre ou des frissons,"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "602",
+    "left": "161",
+    "width": "351",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " - une toux ou une augmentation de ma toux habituelle,"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "639",
+    "left": "161",
+    "width": "158",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " - une fatigue inhabituelle,"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "676",
+    "left": "161",
+    "width": "442",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " - un essoufflement inhabituel quand je parle ou je fais un petit effort,"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "713",
+    "left": "161",
+    "width": "401",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " - des douleurs musculaires et/ou des courbatures inhabituelles,"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "750",
+    "left": "161",
+    "width": "194",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " - des maux de tête inexpliqués,"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "788",
+    "left": "161",
+    "width": "203",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " - une perte de goût ou d’odorat,"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "825",
+    "left": "161",
+    "width": "177",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " - des diarrhées inhabituelles."
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "873",
+    "left": "107",
+    "width": "138",
+    "height": "16",
+    "font": "LucioleBold",
+    "size": "13",
+    "label": "déclare sur l’honneur",
+    "block": 2
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "873",
+    "left": "253",
+    "width": "541",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " ne pas avoir connaissance d’avoir été en contact avec un cas confirmé de covid-19",
+    "block": -0.6
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "890",
+    "left": "107",
+    "width": "292",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "dans les quatorze jours précédant le départ ;"
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "920",
+    "left": "107",
+    "width": "152",
+    "height": "16",
+    "font": "LucioleBold",
+    "size": "13",
+    "label": "m’engage sur l’honneur",
+    "block": 2
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "920",
+    "left": "268",
+    "width": "11",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " à me soumettre à un test antigénique ou à un examen biologique éventuel à ",
+    "block": -0.6
+  },
+  {
+    "type": "text",
+    "page": 1,
+    "top": "941",
+    "left": "107",
+    "width": "52",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "l’arrivée."
+  },
+  {
+    "type": "input",
+    "inputs": [
+      "creationLocation"
+    ],
+    "page": 1,
+    "top": "1004",
+    "left": "107",
+    "width": "35",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "Fait à ",
+    "block": 2
+  },
+  {
+    "type": "input",
+    "inputs": [
+      "creationDate"
+    ],
+    "page": 1,
+    "top": "1034",
+    "left": "107",
+    "width": "15",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": "Le "
+  },
+  {
+    "type": "input",
+    "inputs": [
+      "creationHour"
+    ],
+    "page": 1,
+    "top": "1034",
+    "left": "220",
+    "width": "184",
+    "height": "16",
+    "font": "Luciole",
+    "size": "13",
+    "label": " à ",
+    "block": -0.6
+  }
+]
