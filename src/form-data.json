@@ -60,7 +60,7 @@
       "autocomplete": "postal-code",
       "placeholder": "75001",
       "inputmode": "numeric",
-      "pattern": "[0-9]{5}",
+      "pattern": "[0-9]{4,5}",
       "min": 1000,
       "max": 99999,
       "minlength": 4,
